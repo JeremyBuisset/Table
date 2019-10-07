@@ -1,0 +1,84 @@
+.table{
+    background: sandybrown;
+    height:130px;
+    width:200px;
+    border: solid black 1px;
+    position: relative;
+    top: 10px;
+
+}
+
+.table2{
+     background: sandybrown;
+     height:130px;
+     width:200px;
+     border: solid black 1px;
+     position: absolute;
+     top: 18px;
+    margin-left:205px;
+}
+.table3{
+    background: sandybrown;
+    height:130px;
+    width:200px;
+    border: solid black 1px;
+    position: relative;
+    top: 18px;
+    margin-top: 2px;
+}
+
+.table4 {
+    background: sandybrown;
+    height: 130px;
+    width: 200px;
+    border: solid black 1px;
+    position: absolute;
+    top: 289px;
+    margin-top: 2px;
+    margin-left:205px;
+}
+
+.table5 {
+    background: sandybrown;
+    height: 130px;
+    width: 200px;
+    border: solid black 1px;
+    position: absolute;
+    top: 289px;
+    margin-top: 136px;
+    margin-left:205px;
+}
+.table6 {
+    background: sandybrown;
+    height: 130px;
+    width: 200px;
+    border: solid black 1px;
+    position: absolute;
+    top: 289px;
+    margin-top: 2px;
+    margin-left:410px;
+}
+
+.table7 {
+    background: sandybrown;
+    height: 130px;
+    width: 200px;
+    border: solid black 1px;
+    position: absolute;
+    top: 289px;
+    margin-top: 136px;
+    margin-left:410px;
+}
+
+.nom{
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+    border-radius: 1.5em;
+    background: linear-gradient(to right, rgba(255,168,76,1) 0%,rgba(255,123,13,1) 100%);
+}
+
+span{
+    font-family: sans-serif;
+
+}
+
