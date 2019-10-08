@@ -74,7 +74,7 @@
     border-top: solid black 2px;
     border-bottom: solid black 2px;
     border-radius: 1.5em;
-    background: linear-gradient(to right, rgba(255,168,76,1) 0%,rgba(255,123,13,1) 100%);
+    background: linear-gradient(to right, rgba(52,99,153,1) 20%,rgba(41,137,216,1) 50%,rgba(55,100,153,1) 80%);
 }
 
 span{
